@@ -1,9 +1,9 @@
 # Portfolio-Website v2.0 :fire:
 
-> This is my new portfolio made using Bootstrap.  🙌  
-> This is the single-page portfolio with overall details about me.
-> Checkout it [live](https://portfolio-nitin-2.netlify.app/)  :round_pushpin:    
-> More attractive in __Desktop Mode__  
+> 1. This is my new portfolio made using Bootstrap.  🙌  
+> 2. This is the single-page portfolio with overall details about me.
+> 3. Checkout it [live](https://portfolio-nitin-2.netlify.app/)  :round_pushpin:    
+> 4. More attractive in __Desktop Mode__  
 
 # Features
 
