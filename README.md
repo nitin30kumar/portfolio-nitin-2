@@ -17,4 +17,4 @@
 
 # Thanks
 
-**Thanks for visiting my new portfolio. It'll be live very soon. :triangular_flag_on_post: Keep visiting !**
+**Thanks for visiting my new portfolio. :triangular_flag_on_post: Keep visiting !**
