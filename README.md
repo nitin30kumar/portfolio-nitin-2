@@ -6,7 +6,7 @@
 # Features
 
 > 1. This contains the overall details about me in simple forms  
-> 2. It contains some of my projects which can be traced out in my [repositories](https://github.com/nitin30kumar?tab=repositories)  
+> 2. It contains some of my projects which can be traced out in my [repositories](https://github.com/nitin30kumar?tab=repositories).  
 
 # Old portfolio
 
