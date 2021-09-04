@@ -2,7 +2,8 @@
 
 > This is my new portfolio made using Bootstrap.  🙌  
 > This is the single-page portfolio with overall details about me.
-> Checkout it [live]()  :round_pushpin:    
+> Checkout it [live](https://portfolio-nitin-2.netlify.app/)  :round_pushpin:    
+> More attractive in __Desktop Mode__  
 
 # Features
 
