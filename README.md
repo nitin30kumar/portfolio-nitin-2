@@ -5,6 +5,9 @@
 > 3. Checkout it [live](https://portfolio-nitin-2.netlify.app/)  :round_pushpin:    
 > 4. More attractive in __Desktop Mode__  
 
+![portfolio-2](https://user-images.githubusercontent.com/40369168/132096030-1ce4ba69-5407-41ad-8dec-b586944df3b5.png)
+
+
 # Features
 
 > 1. This contains the overall details about me in simple forms 📝  
